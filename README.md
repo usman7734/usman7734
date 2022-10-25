@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Usman
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning MySQL
+- 👍 I have well knowledge of JavaScript.
 - 📫 You can contact me:
 - aliusman7734@gmail.com
 - https://www.linkedin.com/in/usman7734
